@@ -1,0 +1,56 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Brood – Fuel the Brood Within</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #0f0f0f;
+      color: #f1f1f1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+    }
+    h1 {
+      font-size: 4rem;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      font-size: 1.3rem;
+      max-width: 600px;
+      margin: 0 auto 1.5rem;
+      color: #cfcfcf;
+    }
+    .cta-button {
+      background-color: #f1f1f1;
+      color: #0f0f0f;
+      padding: 0.75rem 1.5rem;
+      font-size: 1rem;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    .cta-button:hover {
+      background-color: #d1d1d1;
+    }
+    footer {
+      position: absolute;
+      bottom: 20px;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>Brood</h1>
+  <p>Fuel the Brood Within – A space for deep thought, self-talk, science, and mindful growth.</p>
+  <button class="cta-button">Explore More</button>
+  <footer>&copy; 2025 Brood. All rights reserved.</footer>
+</body>
+</html>
